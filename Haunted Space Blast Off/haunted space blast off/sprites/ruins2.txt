@@ -1,0 +1,13 @@
+frames 1
+width 12
+height 7
+color magenta
+  .     _  .
+    ___/ |_ 
+ . /      _|
+ _/ []   |_ 
+/         _|
+|______  |_ 
+     . \___|
+end
+eof

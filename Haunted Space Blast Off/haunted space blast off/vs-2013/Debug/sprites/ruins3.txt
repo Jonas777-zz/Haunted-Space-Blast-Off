@@ -1,0 +1,8 @@
+frames 1
+width 5
+height 2
+color magenta
+ ___ 
+|___|
+end
+eof

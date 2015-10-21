@@ -1,0 +1,11 @@
+frames 2
+width 9
+height 2
+color white
+   \ /   
+\_(0_0)_/
+end
+   \ /   
+/-(O_O)-\
+end
+eof

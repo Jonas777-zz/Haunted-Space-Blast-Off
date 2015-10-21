@@ -1,0 +1,10 @@
+frames 1
+width 7
+height 4
+color magenta
+|\_    
+|  \_  
+| [] \ 
+|_____|
+end
+eof
